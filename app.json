@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "wk5-photo",
+    "slug": "wk5",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a637c4b5-f3a6-4cb5-85bb-734db2b51e94"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a637c4b5-f3a6-4cb5-85bb-734db2b51e94"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
